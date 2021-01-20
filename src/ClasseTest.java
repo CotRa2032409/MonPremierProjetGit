@@ -4,5 +4,6 @@ public class ClasseTest {
         System.out.println(42);
         System.out.println("Allo");
         int y = (int) Math.pow(2,2);
+        int x = 2;
     }
 }
